@@ -1,0 +1,8 @@
+@keyframes earthRound{
+    from{
+        background-position: left center;
+    }
+    to{
+        background-position: var(--size-of-background) center;
+    }
+}
