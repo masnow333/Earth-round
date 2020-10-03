@@ -14,3 +14,7 @@ And you want that the wrapper have a height of 250px. You need do this equation:
     (780 * 250) / 400 = 487.5
 
 You change the value of variable "--size-of-background" for "487.5px"
+
+    :root{
+        --size-of-background: 487.5px;
+    }
